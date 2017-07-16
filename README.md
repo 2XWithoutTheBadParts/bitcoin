@@ -1,7 +1,11 @@
 Bitcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
+This client is fully compatible with SegWit2x for the next few months, but with much better code quality and without the incredibly rushed hard fork.
+Miners who wish to support the NYA are strongly suggested to run this instead of the btc1 binaries!
+
+
+[![Build Status](https://travis-ci.org/2XWithoutTheBadParts/bitcoin.svg?branch=segwit2x)](https://travis-ci.org/2XWithoutTheBadPargs/bitcoin/branches)
 
 https://bitcoincore.org
 

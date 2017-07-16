@@ -5,7 +5,7 @@ This client is fully compatible with SegWit2x for the next few months, but with 
 Miners who wish to support the NYA are strongly suggested to run this instead of the btc1 binaries!
 
 
-[![Build Status](https://travis-ci.org/2XWithoutTheBadParts/bitcoin.svg?branch=segwit2x)](https://travis-ci.org/2XWithoutTheBadPargs/bitcoin/branches)
+[![Build Status](https://travis-ci.org/2XWithoutTheBadParts/bitcoin.svg?branch=segwit2x)](https://travis-ci.org/2XWithoutTheBadParts/bitcoin/branches)
 
 https://bitcoincore.org
 
